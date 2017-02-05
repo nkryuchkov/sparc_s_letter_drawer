@@ -1,4 +1,4 @@
-# SPARC ASM s-letter drawer
+# SPARC 'S' letter drawer
 This draws the letter 'S' using different chars for the letter itself, for filling and for the border. This uses SPARC assembly functions called from the C code.
 
 Explanation of command line arguments:  
